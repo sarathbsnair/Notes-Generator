@@ -1,0 +1,22 @@
+.inputText{
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    height:1.9rem;
+    padding: 0 .35rem;
+}
+
+.buttonStyles{
+    font-size: .9rem;
+    background-color: black;
+    margin-left: 1rem;
+    font-weight: 600;
+    padding: 7.2px 5px;
+    width: 5rem;
+    color:white;
+    letter-spacing: 1px;
+}
+
+.App{
+    margin-left: 2%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
